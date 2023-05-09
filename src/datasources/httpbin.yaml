@@ -1,0 +1,5 @@
+type: api
+base_url: <% config.httpbin.base_url %>
+
+#headers:
+#  title: <% inputs.headers['title'] %>
